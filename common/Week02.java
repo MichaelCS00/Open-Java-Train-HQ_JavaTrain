@@ -9,10 +9,14 @@ public class Week02{
 	public static void ZhiweiZheng()	{
 		System.out.peintln("Zhiwei Zheng");
 	}
+              public static void LiBaoHong(){
+		System.out.peintln("LiBaoHong");
+	}
 	public static void main(String [] args){
 		HuLiuzhen();
 		XiaolingLi();
 		ZhiweiZheng();
+                                LiBaoHong();
 	}
 
 }
