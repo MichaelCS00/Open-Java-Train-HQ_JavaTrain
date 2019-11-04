@@ -13,7 +13,7 @@ public class Week02 {
         System.out.println("Xiaoling Li");
     }
     public static void Chenjiebin(){
-	System.out.println("Chenjiebin"); }
+	    System.out.println("Chenjiebin"); }
 
     public static void ZhiweiZheng() {
         System.out.println("Zhiwei Zheng");
@@ -26,7 +26,7 @@ public class Week02 {
     public static void main(String[] args) {
         HuLiuzhen();
         XiaolingLi();
-	Chenjiebin();
+	    Chenjiebin();
         ZhiweiZheng();
         LiBaoHong();
     }
