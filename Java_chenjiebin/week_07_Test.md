@@ -3,9 +3,9 @@
 	以下测试能用图形表达的尽量用图像表达文档要求用 markdown 格式，需要写代码的用 Java 编写
 
 ## 0. 描述一个Java程序从编写到运行的完整过程(图文表达)
-##![01](https://github.com/MichaelCS00/HQ_JavaTrain/blob/master/Hunkchen_image/01.PNG)
+  ![01](https://github.com/MichaelCS00/HQ_JavaTrain/blob/master/Hunkchen_image/01.PNG)
 ## 1. 阐述你对 Java 中 接口、抽象类、对象 的理解(图文表达 会用 UML 的尽量用 UML)
-##![02](https://github.com/MichaelCS00/HQ_JavaTrain/blob/master/Hunkchen_image/02.PNG)
+  ![02](https://github.com/MichaelCS00/HQ_JavaTrain/blob/master/Hunkchen_image/02.PNG)
 ## 2. 举出几个常用的 git 命令，描述什么情况下会产生代码冲突？如何解决？
 ##git clone+仓库地址（克隆远程仓库）
 #git add .(添加到暂存区）
@@ -24,5 +24,5 @@
 ## 3. 简单描述一下 jvm 内存模型(图文表达)
   ![03](https://github.com/MichaelCS00/HQ_JavaTrain/blob/master/Hunkchen_image/03.png)
 ## 4. 编写一个单例类，要求程序能完成一定的功能(具体自定)
-  ![1572828071996](../image/1572828071996.png)
 ## 5. 编写一个程序解决多线程问题，爸爸妈妈同时打儿子，儿子会扣血，但要求不能扣到0以下且扣血过程要准确;在此基础上尽量提高效率(具体类的设计和输出自定)
+
