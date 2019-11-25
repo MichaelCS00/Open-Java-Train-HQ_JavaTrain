@@ -1,6 +1,6 @@
 # Java程序从编写到运行的完整过程:
 
-![JavaCompilationandOperation ](../../image/JavaCompilationandOperation .jpg)
+![JavaCompilationandOperation ](../../image/JavaCompilationandOperation.jpg)
 
 1.编译：源文件经过编译器（Compiler）转换成字节码（Bytecode）进入磁盘
 

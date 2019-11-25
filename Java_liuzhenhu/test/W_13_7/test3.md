@@ -1,6 +1,5 @@
 # JVM内存模型
 
-<<<<<<< HEAD
 ![JVM](../../image/JVM.jpg)
 =======
 ![123.jpg](../../image/123.jpg)
