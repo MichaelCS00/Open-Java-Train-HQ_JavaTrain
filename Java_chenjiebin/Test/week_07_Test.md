@@ -24,5 +24,53 @@
 ## 3. 简单描述一下 jvm 内存模型(图文表达)
   ![03](https://github.com/MichaelCS00/HQ_JavaTrain/blob/master/Hunkchen_image/03.png)
 ## 4. 编写一个单例类，要求程序能完成一定的功能(具体自定)
+### public class Student {
+###	private static Student student =new Student();
+###	private String name;
+###	private int age;
+###     private double height;
+###	private Student()
+###	{
+###		name = null;
+###		age = 0;
+###		height =0.0;
+###	}
+###	public String getName()
+###	{
+###		return name;
+###	}
+###	public int getAge()
+###	{
+###		return age;
+###	}
+###	public double getHeight()
+###	{
+###		return height;
+###	}
+###	public void setName(String name)
+###	{
+###		this.name = name;
+###	}
+###	public void setAge(int age)
+###	{
+###		this.age=age;
+###	}
+###	public void setHeight(double height)
+###	{
+###		this.height=height;
+###	}
+###	public static Student getInstance()
+###	{
+###		return student;
+###	}
+###	public static void main(String[] args) {
+###		getInstance().setName("Hunkchen");
+###		getInstance().setAge(19);
+###		getInstance().setHeight(190.0);
+###		System.out.println("the name of Student :"+getInstance().getName());
+###		System.out.println("the age of Student :"+getInstance().getAge());
+###		System.out.println("the height of Student :"+getInstance().getHeight());
+###	}
+### }
 ## 5. 编写一个程序解决多线程问题，爸爸妈妈同时打儿子，儿子会扣血，但要求不能扣到0以下且扣血过程要准确;在此基础上尽量提高效率(具体类的设计和输出自定)
 
