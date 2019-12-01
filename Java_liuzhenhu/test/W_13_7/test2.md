@@ -15,11 +15,12 @@
 
 ​	6.git push 
 
-​	7.git pull --rebase origin master   <!--仓库没有修改的情况下-->
-
+	7.git pull --rebase origin master   <!--库没有修改的情况下-->
    	git pull origin master
 
 ​	8.git log <!--查看提交历史-->
+
+	9. git rm -r --cached .idea   <!--删除.idea文件夹-->    
 
 # git冲突
 
