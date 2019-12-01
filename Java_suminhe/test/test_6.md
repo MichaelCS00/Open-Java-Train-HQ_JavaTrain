@@ -2,3 +2,5 @@
 # 爸爸妈妈同时打儿子，儿子会扣血，但要求不能扣到0以下且扣血过程要准确;
 # 在此基础上尽量提高效率(具体类的设计和输出自定)
 
+ [MultiThread.java](..\code\test_6_code\MultiThread.java) 
+
