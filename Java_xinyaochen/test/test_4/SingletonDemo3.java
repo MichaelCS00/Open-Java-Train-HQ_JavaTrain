@@ -10,3 +10,4 @@ public class SingletonDemo3 {
 	      }
 	  
 	  }
+	  //工厂化方式，特点是可以在实例过程中添加逻辑。
